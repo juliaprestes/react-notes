@@ -1,4 +1,4 @@
-# Aplicação desenvolvida ao longo do curso de react
+# Aplicação desenvolvida
 
 Na imagem abaixo é ilustrado como ficou a aplicação, ela foi feita com pouca estilização e focada na linguagem.
 
