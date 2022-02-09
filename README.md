@@ -1,4 +1,4 @@
-# Aplicação desenvolvida ao longo do curso de react, aqui foi estudada a base da biblioteca e feito os primeiros passos
+# Aplicação desenvolvida ao longo do curso de react
 
 Na imagem abaixo é ilustrado como ficou a aplicação, ela foi feita com pouca estilização e focada na linguagem.
 
